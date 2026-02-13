@@ -5,10 +5,10 @@
 
 export const config = {
   /** Your name */
-  senderName: "Granthana",
+  senderName: "Abhiroop",
 
   /** Your Valentine's name */
-  recipientName: "Ivirah",
+  recipientName: "Sam",
 
   /** Your personal message (used in Mixtape lyrics, Sealed Letter, etc.) */
   message:
@@ -30,12 +30,12 @@ audioUrl: "audio/final_audio.mp3",
 
   /** Receipt line items for "The Love Receipt" template */
   receiptItems: [
+    { name: "Stolen Hoodies", qty: "× 1" },
+    { name: "Forehead Kissies", qty: "countless" },
+    { name: "Best Nickname", qty: "bubby" },
+    { name: "Butterflies", qty: "× ∞" },
     { name: "Inside Jokes", qty: "× ∞" },
-    { name: "Late Night Talks", qty: "× 365" },
-    { name: "Butterflies", qty: "× 1,000,000" },
-    { name: "Stolen Hoodies", qty: "× 3" },
-    { name: "Forehead Kisses", qty: "× countless" },
-    { name: "Awkward First Date", qty: "× 1 (perfect)" },
+    { name: "Love", qty: "× ∞" },
   ],
 
   /** RPG Quest custom items */
